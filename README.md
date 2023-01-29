@@ -1,6 +1,6 @@
 # GapShap
 
-Flutter basedmessaging app where users can sign and login to chat with thier friends and family, colleagues among groups with enriched User-Experience.
+Flutter based messaging app where users can sign and login to chat with thier friends and family, colleagues among groups with enriched User-Experience.
 
 Tech Stack Used:-
 
